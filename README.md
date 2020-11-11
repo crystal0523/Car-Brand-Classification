@@ -1,7 +1,7 @@
 # Car-Brand-Classification
 Use pretrained wide residual network to do car brand classification problem
 
-  ##Reproducing submission
+  ## Reproducing submission
   
   1. Installation
   2. Download Image
