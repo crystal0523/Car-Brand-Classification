@@ -101,7 +101,7 @@ def test(model):
    
  
 if __name__=="__main__":
-    model=torchvision.models.wide_resnet50_2(pretrained=True)
+    model = torchvision.models.wide_resnet50_2(pretrained=True)
     model.fc.out_features = 196
     model.to(device)
     print(model)
