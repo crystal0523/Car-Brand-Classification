@@ -1,15 +1,25 @@
 # Car-Brand-Classification
 Use pretrained wide residual network to do car brand classification problem
+## Dataset
+<p>-------------------
+  <img src='000074.jpg'>  
+</p>-------------------
 
-  ## Reproducing submission
+## Environment
+```
+torch 1.6.0
+```
+## Installation
+Clone this repo.
   
-  1. Installation
-  This work is work on Pytorch environment. Make sure you already install one. 
-  2. Download Image
-  3. Download pretrained model
-   By simply using
-   ```python
-   model = torchvision.models.wide_resnet50_2(pretrained=True)
-   ```
-  4. Run wide_residual_network.py 
-  5. Submit prediction
+  
+## Pretrained model
+ By the following command
+ ```
+ model = torchvision.models.wide_resnet50_2(pretrained=True)
+ ```
+## Train
+Run wide_residual_network.py 
+## Testing Results
+Since it's a kaggle competition, you have to submit your result on kaggle website.
+  
