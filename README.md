@@ -6,7 +6,7 @@ This project use a lot of pictures of different car brand, including 11,185 trai
   
   <img src='000074.jpg'>  
   <img src='000099.jpg'>
-  <img src='0000160.jpg'>
+  <img src='000160.jpg'>
   
 </p>-------------------
 
