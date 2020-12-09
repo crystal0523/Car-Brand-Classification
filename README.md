@@ -2,14 +2,13 @@
 Use pretrained wide residual network to do car brand classification problem
 ## Dataset
 This project use a lot of pictures of different car brand, including 11,185 training images and 5,000 testing images.
-<p>-------------------
+<p>
   
   <img src='000074.jpg'>  
   <img src='000099.jpg'>
   <img src='000160.jpg'>
   
-</p>-------------------
-
+</p>
 ## Environment
 ```
 torch 1.6.0
