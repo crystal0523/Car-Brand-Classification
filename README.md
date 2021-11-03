@@ -20,12 +20,12 @@ Clone this repo.
   
   
 ## Pretrained model
- By the following command
+ Used the pretrained weight by the following command
  ```
  model = torchvision.models.wide_resnet50_2(pretrained=True)
  ```
 ## Train
-Run ```wide_residual_network.py```
+ ```python wide_residual_network.py```
 ## Testing Results
 Since it's a kaggle competition, you have to submit your result on kaggle website.
   
