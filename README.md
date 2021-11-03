@@ -1,7 +1,7 @@
 # Car-Brand-Classification
-Use pretrained wide residual network to do car brand classification problem
+This project use pretrained ***wide residual network*** to do the car brand classification problem.
 ## Dataset
-This project use a lot of pictures of different car brand, including 11,185 training images and 5,000 testing images.
+Dataset includes 11,185 training images and 5,000 testing images.
 <p>
   
   <img src='000074.jpg'>  
